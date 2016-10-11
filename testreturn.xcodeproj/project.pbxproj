@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					C3BD1D4F1DAD1CDD008005F2 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = RY7LJXGUGK;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RY7LJXGUGK;
 				INFOPLIST_FILE = testreturn/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.myapp.testreturn;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RY7LJXGUGK;
 				INFOPLIST_FILE = testreturn/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.myapp.testreturn;
